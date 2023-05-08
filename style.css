@@ -1118,6 +1118,12 @@ html {
   float: left;
 }
 
+@media (max-width: 1400px) {
+  .product--item7 {
+    margin-top: -32px;
+  }
+}
+
 @media (max-width: 1256px) {
   .product--item7 {
     margin-top: -25px;
